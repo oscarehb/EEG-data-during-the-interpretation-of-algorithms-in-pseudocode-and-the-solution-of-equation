@@ -6,4 +6,4 @@ The data contained here is organized as follows:
 2. Each folder corresponding to each subject contains two folders and two files. The two folders are, for example in the case of subject1: s1Mat and s1Prog. S1Mat corresponds to the results of the mathematical tasks and contains, in turn, the 3 folders with the results for the three levels of difficulty: low (ESs1), medium (EMs1) and high (ECs1). ESs1, EMs1 and ECs1 each contain 60 files with a .mat extension and 60 with a .txt extension, corresponding to 60 segments (epoch) of the EEG signal.
 
 We authorize the use of the data only for scientific research purposes and as long as, previously, they have made the request through any of the two emails: oscarehb75@gmail.com or ohernandezb@uninorte.edu.co.
-The files with the EEG data can be downloaded from Google Drive from this link: 
+The files with the EEG data can be downloaded from Google Drive from this link: https://drive.google.com/drive/folders/1HZFC7tPKJQnvY-KbvRkRlKBvDIUzbCxY?usp=sharing
